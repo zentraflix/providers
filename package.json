@@ -1,5 +1,5 @@
 {
-  "name": "@p-stream/providers",
+  "name": "@Zentraflix/providers",
   "version": "2.3.0",
   "description": "Package that contains all the providers of p-stream",
   "type": "module",
